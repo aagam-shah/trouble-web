@@ -1,0 +1,23 @@
+.alertvis{
+  display: block;
+}
+
+#nodec{
+    text-decoration: none;
+}
+
+.alertinv{
+  display: none;
+}
+
+.curved{
+    border-radius: 5px;
+}
+
+.bgimg{
+    background: url(loginbg.jpg);
+
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
